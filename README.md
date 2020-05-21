@@ -1,4 +1,4 @@
-# restjsonlistviewsample
+# rest json list view sample
 
 A new Flutter application.
 

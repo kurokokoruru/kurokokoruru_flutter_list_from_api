@@ -1,6 +1,6 @@
-# rest json list view sample
+# flutterlistfromapi
 
-A new Flutter application.
+A Flutter sample application. rest request and list view.
 
 ## Getting Started
 
